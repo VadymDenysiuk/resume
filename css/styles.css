@@ -156,6 +156,10 @@ body {
 
 .image {
   border-radius: 50%;
+  padding-left: 35px;
+  padding-right: 35px;
+  /* width: 200px;
+  height: 200px; */
 }
 .Contacts-section,
 .Tech-skills-section,
