@@ -1,8 +1,9 @@
+
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
 }
-
+.project-description {margin:0;}
 .main-section {
   display: flex;
   flex-direction: row-reverse;
@@ -53,7 +54,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #000;
 }
 /* my project section */
 .my-projects {
@@ -118,7 +119,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #959595;
+  color: #000;
 }
 .my-work-expirience-companny {
   margin: 0 15px 0 0;
@@ -187,11 +188,12 @@ body {
   margin-right: 7px;
 }
 .Contacts-section-link {
-  color: #575f6b;
+  color: #fff;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
+  
 }
 
 /* Tech skikks section */
